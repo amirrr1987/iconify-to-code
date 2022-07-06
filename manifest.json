@@ -1,0 +1,11 @@
+{
+  "name": "iconify-to-code",
+  "id": "1126424840756392289",
+  "api": "1.0.0",
+  "main": "code.js",
+  "editorType": [
+    "figma"
+  ],
+  "containsWidget": true,
+  "widgetApi": "1.0.0"
+}
